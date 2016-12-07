@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #fff;
 }
 
 h1,
@@ -453,4 +453,12 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+.center-text {
+    text-align: center;
+}
+
+.circle-img {
+    border-radius: 50%;
 }
