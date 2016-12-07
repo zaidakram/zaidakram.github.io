@@ -2,10 +2,8 @@
 layout: default
 title: Kinderado
 modal-id: 4
-img: kinderado.png
+img: kinderado.jpg
 alt: Kinderado
-client: Kinderado
-category: Web Development
 description: Kinderado is a platform for the private exchange and sale of used baby and children's clothes.
 
 ---

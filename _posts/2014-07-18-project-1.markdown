@@ -4,8 +4,6 @@ title: Storefront
 modal-id: 1
 img: storefront.jpg
 alt: Storefront
-client: Storefront
-category: Web Development
-description: Storefront is Airbnb for the Popup shops. Its has now raised <a href="https://www.crunchbase.com/organization/storefront">$8.9</a> million in 2 rounds of funding.
+description: Storefront is Airbnb for the Popup shops. Its has now raised $8.9 million in 2 rounds of funding.
 
 ---

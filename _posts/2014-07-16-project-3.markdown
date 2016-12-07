@@ -4,8 +4,6 @@ title: Apply.Property
 modal-id: 3
 img: apply.property.jpg
 alt: Apply.Property
-client: Apply.Property
-category: Web Development
 description: Apply.Property is an end to end prospect management software for both residential and commercial property agencies.
 
 ---

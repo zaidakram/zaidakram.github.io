@@ -2,10 +2,8 @@
 layout: default
 title: StarterPad
 modal-id: 6
-img: starterpad.png
+img: starterpad.jpg
 alt: StarterPad
-client: StarterPad
-category: Web Development
-description: Platform to build Startups. It let entrepreneurs help each other achieve success. Entrepreneurs can share tools and tactics to grow their companies...
+description: Platform to build Startups. It let entrepreneurs help each other achieve success. Entrepreneurs can share tools and tactics to grow their companies.
 
 ---

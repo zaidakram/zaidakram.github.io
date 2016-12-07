@@ -2,10 +2,8 @@
 layout: default
 title: Appatrip
 modal-id: 5
-img: appatrip.png
+img: appatrip.jpg
 alt: Appatrip
-client: Appatrip
-category: Web Development
 description: AppATrip is a mobile application for the hotel and travel industry. It offers mobile solution which is highly customizable via a CMS.
 
 
