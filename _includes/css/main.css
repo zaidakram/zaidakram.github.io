@@ -414,6 +414,11 @@ footer .footer-below {
     text-decoration: none;
 }
 
+.portfolio-modal .modal-content .item-details .highlight-text a {
+    color: #{{ site.color.primary }};
+    text-decoration: none;
+}
+
 .portfolio-modal .close-modal {
     position: absolute;
     top: 25px;
