@@ -5,7 +5,7 @@ modal-id: 1
 img: storefront.jpg
 alt: Storefront
 description: Storefront is Airbnb for the Popup shops. Its has now raised $8.9 million in 2 rounds of funding.
-Link: https://www.thestorefront.com
+link: https://www.thestorefront.com
 service: Web Development
 
 ---
