@@ -5,5 +5,7 @@ modal-id: 6
 img: starterpad.jpg
 alt: StarterPad
 description: Platform to build Startups. It let entrepreneurs help each other achieve success. Entrepreneurs can share tools and tactics to grow their companies.
+link: https://www.starterpad.com
+service: Web Development
 
 ---

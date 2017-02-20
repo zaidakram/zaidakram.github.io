@@ -5,6 +5,8 @@ modal-id: 5
 img: appatrip.jpg
 alt: Appatrip
 description: AppATrip is a mobile application for the hotel and travel industry. It offers mobile solution which is highly customizable via a CMS.
+link: http://www.appatrip.com
+service: Web Development
 
 
 ---

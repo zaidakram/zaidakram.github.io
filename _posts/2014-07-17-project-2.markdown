@@ -5,5 +5,7 @@ modal-id: 2
 img: myalere.jpg
 alt: MyAlere
 description: MyAlere is a health and fitness tracking mobile and web application that is based in Australia.
+link: https://myalere.com
+service: Web Development
 
 ---

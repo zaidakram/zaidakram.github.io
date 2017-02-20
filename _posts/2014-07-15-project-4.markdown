@@ -5,5 +5,7 @@ modal-id: 4
 img: kinderado.jpg
 alt: Kinderado
 description: Kinderado is a platform for the private exchange and sale of used baby and children's clothes.
+link: http://www.kinderado.de
+service: Web Development
 
 ---
