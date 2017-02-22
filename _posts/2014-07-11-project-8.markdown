@@ -4,7 +4,7 @@ title: Custom CRM for NETSSI
 modal-id: 8
 img: netssi.jpg
 alt: Netssi
-description: A Custom CRM for <a href="http://netssi.net/">NETSSI</a>.
+description: A Custom CRM for NETSSI.
 service: Web Development
 
 ---
