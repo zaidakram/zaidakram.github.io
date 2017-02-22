@@ -1,0 +1,10 @@
+---
+layout: default
+title: Spotett
+modal-id: 9
+img: spotett.jpg
+alt: Spotett
+description: Successfully completed Phase-I of Spotett (A marketplace for Peer-to-Peer rentals).
+service: Web Development
+
+---

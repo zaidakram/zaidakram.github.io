@@ -17,11 +17,13 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
-                                <li>Link:
-                                    <strong class="highlight-text">
-                                        <a href="{{ post.link }}" target="_blank">{{ post.link }}</a>
-                                    </strong>
-                                </li>
+                                {% if post.link %}
+                                    <li>Link:
+                                        <strong class="highlight-text">
+                                            <a href="{{ post.link }}" target="_blank">{{ post.link }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
                                 <li>Service:
                                     <strong class="highlight-text">{{ post.service }}</strong>
                                 </li>
